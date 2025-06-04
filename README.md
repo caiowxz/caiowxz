@@ -1,6 +1,5 @@
-<h1> 👨🏻‍💻 Olá, I'm Caio Marques - @caiomk4 </h1>
+<h1> 👨🏻‍💻 Olá, I'm Caio Marques </h1>
 
-![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/caiowxz)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiomk4/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/caiomarques19)](https://www.linkedin.com/in/caiomarques19/)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/krbxz)
@@ -16,7 +15,7 @@ Participo de uma comunidade chamada <a href="https://github.com/arthurspk/guiade
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="400" src="https://" />
+      <img width="400" src="https://tekimobile.com/wp-content/uploads/2024/01/20240108-github-destaque-1920x1097.png"/>
     </td>
     <td style="border: 0";>
       <p>
