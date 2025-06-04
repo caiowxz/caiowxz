@@ -19,7 +19,7 @@ Participo de uma comunidade chamada <a href="https://github.com/arthurspk/guiade
     </td>
     <td style="border: 0";>
       <p>
-        🌙 Meu dia a dia em: <a href="https://www.instagram.com/caiomk4/">@caiomk4</a>, e também no Youtube aonde posto <a href="https://www.youtube.com/channel/krbxz">Conteudo sobre jogos</a>.
+        🌙 Descubra meu dia a dia em: <a href="https://www.instagram.com/caiomk4/">@caiomk4</a>, e também no Youtube aonde posto <a href="https://www.youtube.com/channel/krbxz">Conteudo sobre jogos</a>.
       </p>
       <h3>Outros lugares que você pode me encontrar</h3>
       <ul>
