@@ -2,8 +2,6 @@
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiomk4/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/caiomarques19)](https://www.linkedin.com/in/caiomarques19/)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/krbxz)
-[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
 
 Sempre gostei de tecnologia desde pequeno, tive meu primeiro computador com 7 anos e venho me aprofundando nessa área a uns 2 anos gosto de trabalho em grupo e ter novas experiências, gostaria de melhorar meu inglês e ter novas experiências mundo a fora, atualmente também estudo Desenvolvimento de sistemas e me dedico a fazer uma faculdade de Segurança da Informação e Inteligencia Artificial, aonde desejo integrar Cibersegurança com Inteligencia Artificial.
 
